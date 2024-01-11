@@ -1,1 +1,1 @@
-# jenkins-docker-example
+# Using Jenkins pipeline to build a docker image
